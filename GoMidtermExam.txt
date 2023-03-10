@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Christian Fruit Vendo</title>
+    <style>
+      /* CSS styles for the page */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #ffffff;
+        margin: 0;
+      }
+      header {
+        font-family: Roboto;
+        font-size: x-large;
+        background-color: #ffffff;
+        color: #000000;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-right: 30px;
+        padding-left: 300px;
+      }
+      nav {
+        background-color: #000000;
+        color: #fff;
+        padding: 10px;
+      }
+      nav a {
+        color: #ffffff;
+        text-decoration: none;
+        margin: 0 10px;
+      }
+      section {
+        padding: 20px;
+        margin: 20px;
+        background-color: #fff;
+      }
+      footer {
+        background-color: #ffffff;
+        color: #000000;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Christian Fruit Vendo</h1>
+    </header>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Shop</a>
+      <a href="#">Page</a>
+      <a href="#">Service</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+    <section>
+      <h2>Welcome to the Christian Fruit Vendo</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Donec vel eros nec justo aliquet feugiat. Duis et euismod quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam ullamcorper luctus risus, ut tincidunt quam ultrices ac. Nulla fringilla libero in risus fringilla, a facilisis nulla egestas. Morbi gravida eleifend sapien, vel feugiat magna ultrices ac. Curabitur ac ultrices nisi. Nunc id leo at augue dignissim vulputate. Proin tempor odio eu lectus fringilla, vel dapibus augue feugiat. Nullam at augue lacus. Vivamus et velit libero.</p>
+    </section>
+    <footer>
+      <p>&copy; 2023 My Webpage</p>
+    </footer>
+  </body>
+</html>
